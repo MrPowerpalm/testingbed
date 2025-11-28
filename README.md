@@ -1,2 +1,2 @@
 # testingbed
-testing actions and other autoamtions
+testing actions and other automations
